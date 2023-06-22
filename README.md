@@ -1,5 +1,5 @@
 # hhtp_server
-Project for C4 strategies
+Project for 4C strategies
 
 1. Start Server
    a) Define port number (for example 1078), in console
